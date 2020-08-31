@@ -1,0 +1,11 @@
+> Adicionado um container para conter os personagens do jogo (como uma janela)
+
+> Alterando o modo com os personagens entram e saem do display (overflow)
+
+> juntado as funções moveinimigo1, moveinimigo2 e move amigo para movepersonaggens
+
+> Fundo parallar em 3 camadas
+
+> Pause no jogo e abertura de Menu básico
+
+> Teclas de atalho para menu e reinicializar o jogo
